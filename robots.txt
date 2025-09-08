@@ -13,6 +13,10 @@ Disallow: /private/
 
 # Allow all main content
 Allow: /index.html
+Allow: /about.html
+Allow: /privacy-policy.html
+Allow: /terms-of-service.html
+Allow: /sitemap.html
 Allow: /404.html
 Allow: /styles.css
 Allow: /script.js
