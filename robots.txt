@@ -1,13 +1,10 @@
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://playsandcrush.xyz/sitemap.xml
+# Block template folder
+Disallow: /templates/
 
-# Crawl-delay
-Crawl-delay: 1
-
-# Disallow admin areas (if any in future)
+# Block admin areas (if any in future)
 Disallow: /admin/
 Disallow: /private/
 
@@ -22,3 +19,9 @@ Allow: /styles.css
 Allow: /script.js
 Allow: /logo.avif
 Allow: /favicon.ico
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://playsandcrush.xyz/sitemap.xml

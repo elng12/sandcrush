@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://playsandcrush.xyz/terms-of-service.html)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://playsandcrush.xyz/sitemap.html)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://playsandcrush.xyz/sitemap.xml)",
+      "Bash(curl -L -s -o /dev/null -w \"%{http_code}\" https://playsandcrush.xyz/privacy-policy.html)",
+      "Bash(curl -L -s -o /dev/null -w \"%{http_code}\" https://playsandcrush.xyz/sitemap.xml)",
+      "Bash(curl -s https://playsandcrush.xyz/sitemap.xml)",
+      "Bash(curl -s https://playsandcrush.xyz/robots.txt)",
+      "Read(//mnt/f/**)",
+      "Bash(curl \"https://www.bing.com/webmasters/ping.aspx?sitemap=https%3A//playsandcrush.xyz/sitemap.xml\")",
+      "Bash(curl \"https://webmaster.yandex.com/ping?sitemap=https%3A//playsandcrush.xyz/sitemap.xml\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

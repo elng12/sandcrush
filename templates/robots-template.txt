@@ -9,8 +9,18 @@ Allow: /index.html
 Allow: /about.html
 Allow: /privacy-policy.html
 Allow: /terms-of-service.html
+Allow: /sitemap.html
+Allow: /404.html
+Allow: /styles.css
+Allow: /script.js
+Allow: /logo.avif
+Allow: /favicon.ico
 
-# 设置爬取延迟（可选）
+# 阻止爬取管理区域（将来可能添加）
+Disallow: /admin/
+Disallow: /private/
+
+# 设置爬取延迟
 Crawl-delay: 1
 
 # 指定sitemap位置
