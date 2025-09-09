@@ -232,7 +232,7 @@ project-name/
 | `[主关键词]` | sand crush | 主要SEO关键词 |
 | `[游戏描述]` | 物理益智游戏 | 简短游戏描述 |
 | `[主色调]` | #4CAF50 | 网站主色调 |
-| `[公司名]` | Sandcrush Game Studio | 开发商名称 |
+| `[公司名]` | sand crush Game Studio | 开发商名称 |
 
 ## 📚 参考资源
 

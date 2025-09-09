@@ -9,7 +9,7 @@
 [GAME_NAME] = 游戏英文名称（如：Sand Crush）
 [GAME_CHINESE_NAME] = 游戏中文名称（如：沙粒粉碎）
 [DOMAIN_NAME] = 网站域名（如：playsandcrush.xyz）
-[COMPANY_NAME] = 公司/开发者名称（如：Sandcrush Game Studio）
+[COMPANY_NAME] = 公司/开发者名称（如：sand crush Game Studio）
 [CURRENT_DATE] = 当前日期（格式：YYYY-MM-DD）
 ```
 
