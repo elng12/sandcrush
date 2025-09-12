@@ -9,10 +9,10 @@ Disallow: /admin/
 Disallow: /private/
 
 # Allow all main content
-Allow: /index.html
-Allow: /about.html
-Allow: /privacy-policy.html
-Allow: /terms-of-service.html
+Allow: /
+Allow: /about
+Allow: /privacy-policy
+Allow: /terms-of-service
 Allow: /sitemap.html
 Allow: /404.html
 Allow: /styles.css
