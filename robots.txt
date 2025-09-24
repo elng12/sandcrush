@@ -13,7 +13,7 @@ Allow: /
 Allow: /about
 Allow: /privacy-policy
 Allow: /terms-of-service
-Allow: /sitemap.html
+Allow: /sitemap
 Allow: /404.html
 Allow: /styles.css
 Allow: /script.js
